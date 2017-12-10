@@ -1,13 +1,12 @@
-# Vocaloid-version-of-SZJ
-使用Vocaloid China翻唱新校歌《深中街》
+# Vocaloid-files
+存放vocaloid工程的地方（刚好是xml哈哈）
 
-包含歌姬：
+大可能包含歌姬：
     
   1.洛天依 Tianyi_CHN
-    
-  2.言和 YANHE
+  
 
-可能包含歌姬：
+小可能包含歌姬：
   
   1.乐正绫 YuezhenglingV3
     
@@ -17,4 +16,6 @@
     
   4.心华 Xin_Hua
     
-  5.乐正龙牙 Longya_Normal
+  5.乐正龙牙 Longya_Normal 
+  
+  6.言和 YANHE
