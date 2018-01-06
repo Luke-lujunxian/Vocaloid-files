@@ -7,9 +7,9 @@
 	<vVoiceTable>
 		<vVoice>
 			<bs>4</bs>
-			<pc>2</pc>
-			<id><![CDATA[BETDB8W6KWZPYEB9]]></id>
-			<name><![CDATA[Tianyi_CHN]]></name>
+			<pc>0</pc>
+			<id><![CDATA[BK8H76TAEHXWSKDB]]></id>
+			<name><![CDATA[Luotianyi_CHN_Meng]]></name>
 			<vPrm>
 				<bre>0</bre>
 				<bri>0</bri>
@@ -22,8 +22,22 @@
 	<mixer>
 		<masterUnit>
 			<oDev>0</oDev>
+			<plug>
+				<id><![CDATA[vx21]]></id>
+				<name><![CDATA[V3Reverb]]></name>
+				<sdkVer>2</sdkVer>
+				<nPrm>3</nPrm>
+				<vPrm>
+					<v>2796202</v>
+					<v>4697621</v>
+					<v>4613734</v>
+				</vPrm>
+				<presetNo>0</presetNo>
+				<enable>1</enable>
+				<bypass>0</bypass>
+			</plug>
 			<rLvl>0</rLvl>
-			<vol>0</vol>
+			<vol>-100</vol>
 		</masterUnit>
 		<vsUnit>
 			<tNo>0</tNo>
@@ -85,7 +99,7 @@
 			<singer>
 				<t>0</t>
 				<bs>4</bs>
-				<pc>2</pc>
+				<pc>0</pc>
 			</singer>
 			<note>
 				<t>400</t>
@@ -537,10 +551,10 @@
 					<v id="vibLen">30</v>
 					<v id="vibType">13</v>
 					<seq id="vibDep">
-						<cc><p>45874</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45874</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -706,10 +720,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1022,9 +1036,9 @@
 				</nStyle>
 			</note>
 			<note>
-				<t>23920</t>
+				<t>23910</t>
 				<dur>480</dur>
-				<n>67</n>
+				<n>72</n>
 				<v>64</v>
 				<y><![CDATA[bu]]></y>
 				<p><![CDATA[p u]]></p>
@@ -1047,9 +1061,9 @@
 				</nStyle>
 			</note>
 			<note>
-				<t>24400</t>
+				<t>24390</t>
 				<dur>480</dur>
-				<n>67</n>
+				<n>72</n>
 				<v>64</v>
 				<y><![CDATA[jian]]></y>
 				<p><![CDATA[ts\ iE_n]]></p>
@@ -1189,10 +1203,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23043</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23043</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1214,10 +1228,10 @@
 					<v id="vibLen">76</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15850</p><v>64</v></cc>
+						<cc><p>15746</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15850</p><v>50</v></cc>
+						<cc><p>15746</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1239,10 +1253,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1339,10 +1353,10 @@
 					<v id="vibLen">54</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>30235</p><v>64</v></cc>
+						<cc><p>30219</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>30235</p><v>50</v></cc>
+						<cc><p>30219</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1364,10 +1378,10 @@
 					<v id="vibLen">53</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>30887</p><v>64</v></cc>
+						<cc><p>30947</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>30887</p><v>50</v></cc>
+						<cc><p>30947</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1389,10 +1403,10 @@
 					<v id="vibLen">70</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>19773</p><v>64</v></cc>
+						<cc><p>19660</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>19773</p><v>50</v></cc>
+						<cc><p>19660</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1414,10 +1428,10 @@
 					<v id="vibLen">72</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>18467</p><v>64</v></cc>
+						<cc><p>18350</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>18467</p><v>50</v></cc>
+						<cc><p>18350</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1439,10 +1453,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1464,10 +1478,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1489,10 +1503,10 @@
 					<v id="vibLen">60</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>26311</p><v>64</v></cc>
+						<cc><p>26214</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>26311</p><v>50</v></cc>
+						<cc><p>26214</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1514,10 +1528,10 @@
 					<v id="vibLen">80</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>13236</p><v>64</v></cc>
+						<cc><p>13107</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>13236</p><v>50</v></cc>
+						<cc><p>13107</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1539,10 +1553,10 @@
 					<v id="vibLen">81</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>12583</p><v>64</v></cc>
+						<cc><p>12492</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>12583</p><v>50</v></cc>
+						<cc><p>12492</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1564,10 +1578,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1589,10 +1603,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1633,10 +1647,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1658,10 +1672,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1683,10 +1697,10 @@
 					<v id="vibLen">81</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>12584</p><v>64</v></cc>
+						<cc><p>12492</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>12584</p><v>50</v></cc>
+						<cc><p>12492</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1758,8 +1772,7 @@
 					<v id="vibLen">66</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>21845</p><v>61</v></cc>
-						<cc><p>22256</p><v>62</v></cc>
+						<cc><p>22323</p><v>62</v></cc>
 						<cc><p>22802</p><v>63</v></cc>
 						<cc><p>23348</p><v>64</v></cc>
 						<cc><p>24305</p><v>65</v></cc>
@@ -1825,7 +1838,7 @@
 						<cc><p>65536</p><v>124</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>21845</p><v>50</v></cc>
+						<cc><p>22323</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1941,10 +1954,10 @@
 					<v id="vibLen">90</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>6699</p><v>64</v></cc>
+						<cc><p>6553</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>6699</p><v>50</v></cc>
+						<cc><p>6553</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1966,10 +1979,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -1991,10 +2004,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2041,10 +2054,10 @@
 					<v id="vibLen">77</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15200</p><v>64</v></cc>
+						<cc><p>15109</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15200</p><v>50</v></cc>
+						<cc><p>15109</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2066,10 +2079,10 @@
 					<v id="vibLen">73</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>17713</p><v>64</v></cc>
+						<cc><p>17749</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>17713</p><v>50</v></cc>
+						<cc><p>17749</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2110,10 +2123,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2135,10 +2148,10 @@
 					<v id="vibLen">76</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15851</p><v>64</v></cc>
+						<cc><p>15746</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15851</p><v>50</v></cc>
+						<cc><p>15746</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2185,10 +2198,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2210,10 +2223,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2235,10 +2248,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2260,10 +2273,10 @@
 					<v id="vibLen">30</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45923</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45923</p><v>50</v></cc>
+						<cc><p>45875</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2285,10 +2298,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2385,10 +2398,10 @@
 					<v id="vibLen">77</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15200</p><v>64</v></cc>
+						<cc><p>15109</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15200</p><v>50</v></cc>
+						<cc><p>15109</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2410,10 +2423,10 @@
 					<v id="vibLen">88</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>8009</p><v>64</v></cc>
+						<cc><p>7873</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>8009</p><v>50</v></cc>
+						<cc><p>7873</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2460,10 +2473,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2485,10 +2498,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2510,10 +2523,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2535,10 +2548,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2585,10 +2598,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2610,10 +2623,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2685,10 +2698,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2710,10 +2723,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2735,10 +2748,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2760,10 +2773,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23044</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23044</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2785,10 +2798,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2810,10 +2823,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2835,10 +2848,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24348</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24348</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2860,10 +2873,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2960,10 +2973,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -2985,10 +2998,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -3010,10 +3023,10 @@
 					<v id="vibLen">75</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>16507</p><v>64</v></cc>
+						<cc><p>16384</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>16507</p><v>50</v></cc>
+						<cc><p>16384</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -3035,10 +3048,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -3442,10 +3455,10 @@
 					<v id="vibLen">25</v>
 					<v id="vibType">13</v>
 					<seq id="vibDep">
-						<cc><p>49151</p><v>64</v></cc>
+						<cc><p>49152</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>49151</p><v>64</v></cc>
+						<cc><p>49152</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -3899,10 +3912,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23044</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23044</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -3949,10 +3962,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24258</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24258</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4043,10 +4056,10 @@
 					<v id="vibLen">62</v>
 					<v id="vibType">13</v>
 					<seq id="vibDep">
-						<cc><p>24901</p><v>64</v></cc>
+						<cc><p>24985</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24901</p><v>64</v></cc>
+						<cc><p>24985</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4156,10 +4169,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24258</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24258</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4181,10 +4194,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4206,10 +4219,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4250,10 +4263,10 @@
 					<v id="vibLen">25</v>
 					<v id="vibType">13</v>
 					<seq id="vibDep">
-						<cc><p>49151</p><v>64</v></cc>
+						<cc><p>49152</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>49151</p><v>64</v></cc>
+						<cc><p>49152</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4294,10 +4307,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11834</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11834</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4319,10 +4332,10 @@
 					<v id="vibLen">88</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>8009</p><v>64</v></cc>
+						<cc><p>7873</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>8009</p><v>50</v></cc>
+						<cc><p>7873</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4344,10 +4357,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4369,10 +4382,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4394,10 +4407,10 @@
 					<v id="vibLen">60</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>26311</p><v>64</v></cc>
+						<cc><p>26214</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>26311</p><v>50</v></cc>
+						<cc><p>26214</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4419,10 +4432,10 @@
 					<v id="vibLen">80</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>13236</p><v>64</v></cc>
+						<cc><p>13107</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>13236</p><v>50</v></cc>
+						<cc><p>13107</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4444,10 +4457,10 @@
 					<v id="vibLen">81</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>12583</p><v>64</v></cc>
+						<cc><p>12492</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>12583</p><v>50</v></cc>
+						<cc><p>12492</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4469,10 +4482,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4494,10 +4507,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4538,10 +4551,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4563,10 +4576,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4588,10 +4601,10 @@
 					<v id="vibLen">81</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>12584</p><v>64</v></cc>
+						<cc><p>12492</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>12584</p><v>50</v></cc>
+						<cc><p>12492</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4663,8 +4676,7 @@
 					<v id="vibLen">66</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>21845</p><v>61</v></cc>
-						<cc><p>22256</p><v>62</v></cc>
+						<cc><p>22323</p><v>62</v></cc>
 						<cc><p>22802</p><v>63</v></cc>
 						<cc><p>23348</p><v>64</v></cc>
 						<cc><p>24305</p><v>65</v></cc>
@@ -4730,7 +4742,7 @@
 						<cc><p>65536</p><v>124</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>21845</p><v>50</v></cc>
+						<cc><p>22323</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4846,10 +4858,10 @@
 					<v id="vibLen">90</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>6699</p><v>64</v></cc>
+						<cc><p>6553</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>6699</p><v>50</v></cc>
+						<cc><p>6553</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4871,10 +4883,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4896,10 +4908,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4946,10 +4958,10 @@
 					<v id="vibLen">77</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15200</p><v>64</v></cc>
+						<cc><p>15109</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15200</p><v>50</v></cc>
+						<cc><p>15109</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -4971,10 +4983,10 @@
 					<v id="vibLen">73</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>17713</p><v>64</v></cc>
+						<cc><p>17749</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>17713</p><v>50</v></cc>
+						<cc><p>17749</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5015,10 +5027,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5040,10 +5052,10 @@
 					<v id="vibLen">76</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15851</p><v>64</v></cc>
+						<cc><p>15746</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15851</p><v>50</v></cc>
+						<cc><p>15746</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5090,10 +5102,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5115,10 +5127,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5140,10 +5152,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5165,10 +5177,10 @@
 					<v id="vibLen">30</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45923</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45923</p><v>50</v></cc>
+						<cc><p>45875</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5190,10 +5202,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5290,10 +5302,10 @@
 					<v id="vibLen">77</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15200</p><v>64</v></cc>
+						<cc><p>15109</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15200</p><v>50</v></cc>
+						<cc><p>15109</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5315,10 +5327,10 @@
 					<v id="vibLen">88</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>8009</p><v>64</v></cc>
+						<cc><p>7873</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>8009</p><v>50</v></cc>
+						<cc><p>7873</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5365,10 +5377,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5390,10 +5402,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5415,10 +5427,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5440,10 +5452,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5490,10 +5502,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5515,10 +5527,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5590,10 +5602,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5615,10 +5627,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5640,10 +5652,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5665,10 +5677,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23044</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23044</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5690,10 +5702,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5715,10 +5727,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5740,10 +5752,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24348</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24348</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5765,10 +5777,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5865,10 +5877,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5890,10 +5902,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5915,10 +5927,10 @@
 					<v id="vibLen">75</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>16507</p><v>64</v></cc>
+						<cc><p>16384</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>16507</p><v>50</v></cc>
+						<cc><p>16384</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5940,10 +5952,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5965,10 +5977,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -5990,10 +6002,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6065,10 +6077,10 @@
 					<v id="vibLen">80</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>13238</p><v>64</v></cc>
+						<cc><p>13107</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>13238</p><v>50</v></cc>
+						<cc><p>13107</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6115,10 +6127,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6140,10 +6152,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6215,10 +6227,10 @@
 					<v id="vibLen">80</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>13238</p><v>64</v></cc>
+						<cc><p>13107</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>13238</p><v>50</v></cc>
+						<cc><p>13107</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6322,10 +6334,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23044</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23044</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6372,10 +6384,10 @@
 					<v id="vibLen">20</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>52449</p><v>64</v></cc>
+						<cc><p>52428</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>52449</p><v>50</v></cc>
+						<cc><p>52428</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6447,10 +6459,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6472,10 +6484,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6497,10 +6509,10 @@
 					<v id="vibLen">64</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23695</p><v>64</v></cc>
+						<cc><p>23620</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23695</p><v>50</v></cc>
+						<cc><p>23620</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6566,10 +6578,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6591,10 +6603,10 @@
 					<v id="vibLen">62</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>25003</p><v>64</v></cc>
+						<cc><p>24985</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>25003</p><v>50</v></cc>
+						<cc><p>24985</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6616,10 +6628,10 @@
 					<v id="vibLen">80</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>13238</p><v>64</v></cc>
+						<cc><p>13107</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>13238</p><v>50</v></cc>
+						<cc><p>13107</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6641,10 +6653,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6666,10 +6678,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6741,10 +6753,10 @@
 					<v id="vibLen">76</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15852</p><v>64</v></cc>
+						<cc><p>15746</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15852</p><v>50</v></cc>
+						<cc><p>15746</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6791,10 +6803,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6816,10 +6828,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6916,10 +6928,10 @@
 					<v id="vibLen">26</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>48539</p><v>64</v></cc>
+						<cc><p>48605</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>48539</p><v>50</v></cc>
+						<cc><p>48605</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6966,10 +6978,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -6991,10 +7003,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7016,10 +7028,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7041,10 +7053,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7066,10 +7078,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7091,10 +7103,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7116,10 +7128,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7141,10 +7153,10 @@
 					<v id="vibLen">64</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23695</p><v>64</v></cc>
+						<cc><p>23620</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23695</p><v>50</v></cc>
+						<cc><p>23620</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7166,10 +7178,10 @@
 					<v id="vibLen">30</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45923</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45923</p><v>50</v></cc>
+						<cc><p>45875</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7191,10 +7203,10 @@
 					<v id="vibLen">30</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45923</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45923</p><v>50</v></cc>
+						<cc><p>45875</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7323,10 +7335,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7348,10 +7360,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7373,10 +7385,10 @@
 					<v id="vibLen">30</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45923</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45923</p><v>50</v></cc>
+						<cc><p>45875</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7448,10 +7460,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45224</p><v>64</v></cc>
+						<cc><p>45251</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45224</p><v>50</v></cc>
+						<cc><p>45251</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7473,10 +7485,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7498,10 +7510,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7523,10 +7535,10 @@
 					<v id="vibLen">60</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>26311</p><v>64</v></cc>
+						<cc><p>26214</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>26311</p><v>50</v></cc>
+						<cc><p>26214</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7548,10 +7560,10 @@
 					<v id="vibLen">80</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>13236</p><v>64</v></cc>
+						<cc><p>13107</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>13236</p><v>50</v></cc>
+						<cc><p>13107</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7573,10 +7585,10 @@
 					<v id="vibLen">81</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>12583</p><v>64</v></cc>
+						<cc><p>12492</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>12583</p><v>50</v></cc>
+						<cc><p>12492</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7598,10 +7610,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7623,10 +7635,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7667,10 +7679,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7692,10 +7704,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7717,10 +7729,10 @@
 					<v id="vibLen">81</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>12584</p><v>64</v></cc>
+						<cc><p>12492</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>12584</p><v>50</v></cc>
+						<cc><p>12492</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7792,8 +7804,7 @@
 					<v id="vibLen">53</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>30449</p><v>61</v></cc>
-						<cc><p>30780</p><v>62</v></cc>
+						<cc><p>30856</p><v>62</v></cc>
 						<cc><p>31218</p><v>63</v></cc>
 						<cc><p>31656</p><v>64</v></cc>
 						<cc><p>32425</p><v>65</v></cc>
@@ -7859,7 +7870,7 @@
 						<cc><p>65536</p><v>124</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>30449</p><v>50</v></cc>
+						<cc><p>30856</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7906,10 +7917,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7931,10 +7942,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -7975,10 +7986,10 @@
 					<v id="vibLen">90</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>6699</p><v>64</v></cc>
+						<cc><p>6553</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>6699</p><v>50</v></cc>
+						<cc><p>6553</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8000,10 +8011,10 @@
 					<v id="vibLen">75</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>16507</p><v>64</v></cc>
+						<cc><p>16384</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>16507</p><v>50</v></cc>
+						<cc><p>16384</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8025,10 +8036,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24351</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24351</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8075,10 +8086,10 @@
 					<v id="vibLen">77</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15200</p><v>64</v></cc>
+						<cc><p>15109</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15200</p><v>50</v></cc>
+						<cc><p>15109</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8100,10 +8111,10 @@
 					<v id="vibLen">73</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>17713</p><v>64</v></cc>
+						<cc><p>17749</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>17713</p><v>50</v></cc>
+						<cc><p>17749</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8144,10 +8155,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8169,10 +8180,10 @@
 					<v id="vibLen">76</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15851</p><v>64</v></cc>
+						<cc><p>15746</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15851</p><v>50</v></cc>
+						<cc><p>15746</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8219,10 +8230,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8244,10 +8255,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8269,10 +8280,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8294,10 +8305,10 @@
 					<v id="vibLen">30</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45923</p><v>64</v></cc>
+						<cc><p>45875</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45923</p><v>50</v></cc>
+						<cc><p>45875</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8319,10 +8330,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8419,10 +8430,10 @@
 					<v id="vibLen">77</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>15200</p><v>64</v></cc>
+						<cc><p>15109</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>15200</p><v>50</v></cc>
+						<cc><p>15109</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8444,10 +8455,10 @@
 					<v id="vibLen">88</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>8009</p><v>64</v></cc>
+						<cc><p>7873</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>8009</p><v>50</v></cc>
+						<cc><p>7873</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8494,10 +8505,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8519,10 +8530,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8544,10 +8555,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8569,10 +8580,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8619,10 +8630,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8644,10 +8655,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8719,10 +8730,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8744,10 +8755,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8769,10 +8780,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8794,10 +8805,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23044</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23044</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8819,10 +8830,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8844,10 +8855,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8869,10 +8880,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24348</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24348</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8894,10 +8905,10 @@
 					<v id="vibLen">65</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>23042</p><v>64</v></cc>
+						<cc><p>22937</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>23042</p><v>50</v></cc>
+						<cc><p>22937</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -8994,10 +9005,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -9019,10 +9030,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -9044,10 +9055,10 @@
 					<v id="vibLen">75</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>16507</p><v>64</v></cc>
+						<cc><p>16384</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>16507</p><v>50</v></cc>
+						<cc><p>16384</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -9069,10 +9080,10 @@
 					<v id="vibLen">82</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>11931</p><v>64</v></cc>
+						<cc><p>11810</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>11931</p><v>50</v></cc>
+						<cc><p>11810</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -9090,11 +9101,11 @@
 			<fs>48000</fs>
 			<rs>16</rs>
 			<nCh>2</nCh>
-			<filePath><![CDATA[C:\Users\lujunxian\Desktop\深中街project\深中街——2019毕业季.wavparts\《深中街》无伴奏.wav]]></filePath>
+			<filePath><![CDATA[C:\Users\Junxian Lu\Desktop\Vocaloid-version-of-SZJ\《深中街》无伴奏.wav]]></filePath>
 		</wavPart>
 	</stTrack>
 	<aux>
 		<id><![CDATA[AUX_VST_HOST_CHUNK_INFO]]></id>
-		<content><![CDATA[VlNDSwAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></content>
+		<content><![CDATA[VlNDSwEAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWSU5G2AAAABMAAAAAAAAAVgAzAFIAZQB2AGUAcgBiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAwAAAAIAAAAAAAAAdgB4ADIAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERJU1BQAAAAAAAAAAACAABfAQAAWAEAAKoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDREFUDAAAAKqqKgAVrkcAZmZGAA==]]></content>
 	</aux>
 </vsq4>
